@@ -9,7 +9,7 @@ how many characters the user would like to have on the password?
 if < 8 or > 128 the user will be prompted to choose a number between these two numbers. 
     
     
-once user has picked the appropriate number, they will be asked if the user would like upperCase letter, lowerCase letter, numbers and specials characters in their password.
+Once user has picked the appropriate number, they will be asked if the user would like upperCase letter, lowerCase letter, numbers and specials characters in their password.
      if they all of these options are declined they will be asked to choose at least one option.
     
 
